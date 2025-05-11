@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rogerdemello289@gmail.com**
 
-- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/13CjfQHAdQDzk_iCi0On9m7W6ILoYxG0H/view?usp=drive_link](https://drive.google.com/file/d/1YPmmHhrSBDCb9C3nqpJxvdEJ8X7r-tuR/view?usp=sharing))
+- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/13CjfQHAdQDzk_iCi0On9m7W6ILoYxG0H/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
