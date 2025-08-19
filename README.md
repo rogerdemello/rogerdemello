@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Machine Learning** and **Cloud Computing**
 - 📫 Feel free to reach out at: **rogerdemello289@gmail.com**
-- 📄 Explore my professional background: [Check out my resume here](https://drive.google.com/file/d/1eH2hHOMve8WvK4_VBYGaRY745DZOr4zu/view?usp=sharing)
+- 📄 Explore my professional background: [Resume](https://drive.google.com/file/d/15Y5bRGmp_RxvsUTFtCFJ6YxjGPNFH-gZ/view?usp=sharing)
 
 
 ---
