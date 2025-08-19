@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/rogerdemello" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.codechef.com/users/rogerr_289" target="_blank">
+  <a href="https://www.codechef.com/users/droger289" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://www.leetcode.com/rogerdemello" target="_blank">
