@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently learning **Machine Learning** and **Cloud Computing**
+- 🌱 Currently working on **Agentic AI**, **Machine Learning** and **Cloud Computing**
 - 📫 Feel free to reach out at: **rogerdemello289@gmail.com**
 - 📄 Explore my professional background: [Portfolio](https://rogerdemello.tech/)
 
