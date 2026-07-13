@@ -116,6 +116,21 @@ An autonomous incident-prediction platform processing 10,000+ telemetry events w
 
 ---
 
+## 🧩 Competitive Coding
+
+<p align="center">
+  <a href="https://leetcode.com/u/rogerdemello/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/droger289/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</p>
+
+<div align="center">
+
+![](https://leetcard.jacoblin.cool/rogerdemello?theme=dark&font=Baloo%202&ext=heatmap)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
