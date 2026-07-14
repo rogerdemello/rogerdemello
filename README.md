@@ -19,14 +19,14 @@
 
 ## 🚀 My Story
 
-I'm a **Electronics & Communication** engineer who fell for software the moment I realized code could *think*. What began as curiosity about machine learning turned into a habit I can't shake - **shipping**. Not notebooks that die in a folder, but real systems: LLM apps, RAG pipelines, and autonomous multi-agent frameworks that reach actual users.
+I'm an **Electronics & Communication** engineer who fell for software the moment I realized code could *think*. What began as curiosity about machine learning turned into a habit I can't shake - **shipping**. Not notebooks that die in a folder, but real systems: LLM apps, RAG pipelines, and autonomous multi-agent frameworks that reach actual users.
 
 Along the way I've worked as an **AI Engineer building 3 production LLM apps for 200+ users**, researched **clinical ML models hitting 87% accuracy**, and placed at **national AI hackathons**. The problems I care about most are the unglamorous, high-impact ones: voice-first tools for kirana shops, adaptive tutors for rural classrooms, and copilots that give small teams enterprise-grade leverage.
 
-When I'm not building, I'm grinding DSA on LeetCode, exploring the cloud (**AWS Certified btw☁️**), or turning a weekend hackathon idea into a working demo before Monday.
+When I'm not building, I'm grinding DSA on LeetCode, exploring the cloud (**AWS Certified ☁️**), or turning a weekend hackathon idea into a working demo before Monday.
 
 > 🌱 **Currently going deep on:** Agentic AI, multi-agent orchestration, RAG systems & MLOps
-> 📫 📫 **Let's talk Email Me:** [rogerdemello289@gmail.com](mailto:rogerdemello289@gmail.com)
+> 📫 **Reach me at:** [rogerdemello289@gmail.com](mailto:rogerdemello289@gmail.com)
 
 ---
 
