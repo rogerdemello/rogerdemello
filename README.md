@@ -19,14 +19,14 @@
 
 ## 🚀 My Story
 
-I'm a final-year **Electronics & Communication** engineer who fell for software the moment I realized code could *think*. What began as curiosity about machine learning turned into a habit I can't shake - **shipping**. Not notebooks that die in a folder, but real systems: LLM apps, RAG pipelines, and autonomous multi-agent frameworks that reach actual users.
+I'm a **Electronics & Communication** engineer who fell for software the moment I realized code could *think*. What began as curiosity about machine learning turned into a habit I can't shake - **shipping**. Not notebooks that die in a folder, but real systems: LLM apps, RAG pipelines, and autonomous multi-agent frameworks that reach actual users.
 
-Along the way I've worked as an **AI Engineer intern building 3 production LLM apps for 200+ users**, researched **clinical ML models hitting 87% accuracy**, and placed at **national AI hackathons**. The problems I care about most are the unglamorous, high-impact ones - especially for **India**: voice-first tools for kirana shops, adaptive tutors for rural classrooms, and copilots that give small teams enterprise-grade leverage.
+Along the way I've worked as an **AI Engineer building 3 production LLM apps for 200+ users**, researched **clinical ML models hitting 87% accuracy**, and placed at **national AI hackathons**. The problems I care about most are the unglamorous, high-impact ones: voice-first tools for kirana shops, adaptive tutors for rural classrooms, and copilots that give small teams enterprise-grade leverage.
 
-When I'm not building, I'm grinding DSA on LeetCode, exploring the cloud (**AWS Certified ☁️**), or turning a weekend hackathon idea into a working demo before Monday.
+When I'm not building, I'm grinding DSA on LeetCode, exploring the cloud (**AWS Certified btw☁️**), or turning a weekend hackathon idea into a working demo before Monday.
 
 > 🌱 **Currently going deep on:** Agentic AI, multi-agent orchestration, RAG systems & MLOps
-> 📫 **Let's talk:** rogerdemello289@gmail.com
+> 📫 📫 **Let's talk Email Me:** [rogerdemello289@gmail.com](mailto:rogerdemello289@gmail.com)
 
 ---
 
@@ -49,7 +49,7 @@ When I'm not building, I'm grinding DSA on LeetCode, exploring the cloud (**AWS 
 **AI / Software Engineer Intern** · *AI LifeBOT* · Jan 2026 - Jun 2026
 Built production LLM applications and autonomous agents (LangChain, GPT-4) with RAG pipelines, multi-agent orchestration, approval gates, and telemetry - serving 200+ users at 99.5% uptime.
 
-**Machine Learning Research Intern** · *Center for Manufacturing (CFM), RCOEM* · May 2025 - Jul 2025
+**Machine Learning Research Intern** · *CFM, RCOEM* · May 2025 - Jul 2025
 Built a clinical sleep-disorder prediction system on 1,000+ patient records with biometric feature engineering, reaching **87% accuracy** and cutting development time by 30%.
 
 ---
@@ -72,11 +72,6 @@ A multi-tenant SaaS platform that watches competitors, diffs live web data, and 
 An enterprise AI platform that automates proposal review with AI risk scoring and DOCX/PDF ingestion - reducing manual review effort by ~70%. Ships with a rules engine, RBAC, SLA tracking, and Salesforce/HubSpot/Gmail integrations.
 `Azure OpenAI` `RAG` `React` `Express` `Prisma` `PostgreSQL`
 &nbsp;&nbsp;▸ [**Live Demo**](https://dealsentry.onrender.com/) · [**Code**](https://github.com/rogerdemello/DealSentry)
-
-### 🧠 Engram - Verifiable Memory Layer for AI Agents *(Sui Hackathon)*
-A user-owned, verifiable memory layer for AI agents built on the Sui blockchain with Walrus storage and Seal encryption. Agents cite the exact memories they use; users grant and revoke consent on-chain in real time.
-`Sui Move` `Walrus` `Seal` `Next.js` `React 19` `Azure OpenAI`
-&nbsp;&nbsp;▸ [**Live Demo**](https://engram-alpha-sage.vercel.app) · [**Code**](https://github.com/rogerdemello/Engram)
 
 ### ❤️ LifePulse - Health Analytics & Prediction
 An ML health platform with four trained models - heart disease (**87.2%**), sleep disorder, migraine, and personalized health scoring (0.82 R²) - plus a USDA-integrated nutrition tracker, deployed with ONNX offline inference.
@@ -163,18 +158,21 @@ An autonomous incident-prediction platform processing 10,000+ telemetry events w
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+<!-- Snake Animation -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rogerdemello&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdemello&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rogerdemello/rogerdemello/output/github-contribution-grid-snake.svg">
+</p>
 
-<img width="80%" src="https://nirzak-streak-stats.vercel.app/?user=rogerdemello&theme=tokyonight&hide_border=true"/>
+---
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rogerdemello&theme=tokyo-night&hide_border=true&area=true"/>
+## 📈 Contribution Graph
 
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerdemello&theme=tokyo-night&hide_border=true">
+</p>
 
 ---
 
