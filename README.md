@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Roger%20Demello&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descSize=18&descAlignY=54" alt="Roger Demello"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:8957e5&height=170&section=header&text=Roger%20Demello&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descSize=17&descAlignY=62" alt="Roger Demello"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+production-grade+AI+that+reaches+users;Agentic+systems+%7C+RAG+pipelines+%7C+LLM+evaluation;3+production+apps+%7C+200%2B+users+%7C+National+hackathon+finalist" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=I+build+production-grade+AI+that+reaches+users;Agentic+systems+%7C+RAG+pipelines+%7C+LLM+evaluation;3+production+LLM+apps+%7C+200%2B+users+%7C+AWS+Certified" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -333,5 +333,5 @@ GPA **8.90/10** · Minor in **Artificial Intelligence & Machine Learning**, GPA 
 <div align="center">
   <i>⚡ Always building. Open to roles, collaborations, and hard problems worth solving.</i>
   <br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,50:1f6feb,100:0d1117&height=90&section=footer" alt=""/>
 </div>
