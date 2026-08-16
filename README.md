@@ -69,5 +69,7 @@ Two-stage pipeline — **two-tower embeddings → ANN retrieval → LightGBM ran
 
 <div align="center">
   <b>Open to AI/ML engineering roles.</b> Reach me at <a href="mailto:rogerdemello289@gmail.com">rogerdemello289@gmail.com</a>
+  <br/>
+  <br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,50:1f6feb,100:0d1117&height=90&section=footer" alt=""/>
 </div>
