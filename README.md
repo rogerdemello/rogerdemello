@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:8957e5&height=170&section=header&text=Roger%20Demello&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20LLM%20Infrastructure&descSize=17&descAlignY=62" alt="Roger Demello"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:8957e5&height=170&section=header&text=Roger%20Demello&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26amp%3B%20LLM%20Infrastructure&descSize=17&descAlignY=62" alt="Roger Demello"/>
 
 <p align="center">
   <a href="https://www.rogerdemello.tech/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
