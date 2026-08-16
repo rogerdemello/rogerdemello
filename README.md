@@ -22,11 +22,14 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 ## 💼 Experience
 
-**AI Engineer Intern** — AI LifeBOT · *Jan – Jun 2026*
-Built 3 production LLM applications and autonomous agents (LangChain, GPT-4) for **200+ users**. Architected end-to-end GenAI pipelines with RAG, vector DBs and real-time streaming — **35% lower latency at 99.5% uptime** — plus multi-agent orchestration with approval gates, telemetry and audit logging.
+**AI Engineer Intern** — AI LifeBOT · *Jan – Jun 2026*  
+- Built **3 production LLM applications** and autonomous agents using **LangChain + GPT-4**, serving **200+ users**.
+- Architected end-to-end **GenAI pipelines** with RAG, vector databases, and real-time streaming, achieving **35% lower latency** and **99.5% uptime**.
+- Developed **multi-agent orchestration** with approval gates, telemetry, and audit logging.
 
-**ML Research Intern** — CFM, RCOEM · *May – Jul 2025*
-Built a clinical prediction system on 1,000+ patient records with biometric feature engineering, reaching **87% accuracy**. Cut development time 30% through pipeline optimization and rigorous cross-validation.
+**ML Research Intern** — CFM, RCOEM · *May – Jul 2025*  
+- Built a **clinical prediction system** using **1,000+ patient records** with biometric feature engineering, achieving **87% accuracy**.
+- Reduced development time by **30%** through pipeline optimization and rigorous cross-validation.
 
 ---
 
@@ -61,13 +64,6 @@ Two-stage pipeline — **two-tower embeddings → ANN retrieval → LightGBM ran
 | **Stores** | PostgreSQL · Qdrant · Pinecone · Redis · Supabase · Neo4j |
 | **Backend & Web** | FastAPI · Node.js · Next.js · React · Tailwind |
 | **Infra** | AWS · Azure · Docker · Kubernetes · Kafka · Prometheus · GitHub Actions |
-
----
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rogerdemello&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdemello&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
 
 ---
 
