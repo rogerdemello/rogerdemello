@@ -13,7 +13,7 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 |  |  |
 |---|---|
-| 🚀 **Shipped** | 3 production LLM apps · 200+ users · 35% lower latency |
+| 🚀 **Shipped** | 3 production LLM apps · 200+ users · 99.5% uptime · 35% lower latency |
 | 🏆 **Competed** | 🥈 2nd — ByteSize Sage AI National Hackathon · Finalist — Paytm × Sarvam × Logitech |
 | ☁️ **Certified** | AWS Certified Cloud Practitioner (Oct 2025) |
 | 🎓 **Studied** | B.Tech ECE, RCOEM · **8.90**/10 · Minor in AI/ML **9.67**/10 |
@@ -22,14 +22,20 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 ## 💼 Experience
 
-**AI Engineer Intern** — AI LifeBOT · *Jan – Jun 2026*  
-- Built **3 production LLM applications** and autonomous agents using **LangChain + GPT-4**, serving **200+ users**.
+**AI Engineer Intern** — Innovun Global · *Aug 2026 – Present*  
+- Develop a production **RAG assistant** serving **Cruz Roja Mexicana** (Red Cross, Mexico) across **3 channels**.
+- Debug live failures by tracing production logs and telemetry to the component at fault before shipping a fix.
+- Work with cross-functional teams and client stakeholders across time zones, authoring the technical documentation that keeps delivery repeatable.
+
+**AI Engineer Intern** — AI LifeBOT (B2B Startup) · *Jan – Jun 2026*  
+- Built **3 production LLM applications** and autonomous agents using **LangChain + OpenAI**, serving **200+ users**.
 - Architected end-to-end **GenAI pipelines** with RAG, vector databases, and real-time streaming, achieving **35% lower latency** and **99.5% uptime**.
 - Developed **multi-agent orchestration** with approval gates, telemetry, and audit logging.
 
-**ML Research Intern** — CFM, RCOEM · *May – Jul 2025*  
+**Machine Learning Research Intern** — CFM, RCOEM · *May – Jul 2025*  
 - Built a **clinical prediction system** using **1,000+ patient records** with biometric feature engineering, achieving **87% accuracy**.
-- Reduced development time by **30%** through pipeline optimization and rigorous cross-validation.
+- Engineered measurable features by hand from raw, inconsistent tabular data in Python and pandas.
+- Reduced development time by **30%** through pipeline standardization, and raised result reliability **25%** via cross-validation across multiple splits.
 
 ---
 
@@ -58,12 +64,12 @@ Two-stage pipeline — **two-tower embeddings → ANN retrieval → LightGBM ran
 
 | | |
 |---|---|
-| **Languages** | Python · TypeScript · C++ · SQL · Solidity |
+| **Languages** | Python · TypeScript · C++ · Java · SQL · Solidity |
 | **GenAI & Agents** | LangChain · LangGraph · MCP · OpenAI · Azure OpenAI · Gemini · Ollama |
 | **ML & Data** | PyTorch · scikit-learn · XGBoost · LightGBM · ONNX · MLflow · pandas |
-| **Stores** | PostgreSQL · Qdrant · Pinecone · Redis · Supabase · Neo4j |
+| **Stores** | PostgreSQL · Pinecone · ChromaDB · FAISS · Redis · Supabase · Neo4j |
 | **Backend & Web** | FastAPI · Node.js · Next.js · React · Tailwind |
-| **Infra** | AWS · Azure · Docker · Kubernetes · Kafka · Prometheus · GitHub Actions |
+| **Infra** | AWS · Docker · Kubernetes-ready · Kafka · Prometheus · Grafana · GitHub Actions |
 
 ---
 
