@@ -27,7 +27,7 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 - Debug live failures by tracing production logs and telemetry to the component at fault before shipping a fix.
 - Work with cross-functional teams and client stakeholders across time zones, authoring the technical documentation that keeps delivery repeatable.
 
-**AI Engineer Intern** — AI LifeBOT (B2B Startup) · *Jan – Jun 2026*  
+**AI Engineer Intern** — AI LifeBOT · *Jan – Jun 2026*  
 - Built **3 production LLM applications** and autonomous agents using **LangChain + OpenAI**, serving **200+ users**.
 - Architected end-to-end **GenAI pipelines** with RAG, vector databases, and real-time streaming, achieving **35% lower latency** and **99.5% uptime**.
 - Developed **multi-agent orchestration** with approval gates, telemetry, and audit logging.
