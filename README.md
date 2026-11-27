@@ -22,17 +22,17 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 ## 💼 Experience
 
-**AI Engineer Intern** - Innovun Global · *Aug 2026 – Nov 2026*  
-- Built **Auri's Preact chat widget**, a bilingual (Spanish–English) **RAG assistant** for an International NGO client over **67 courses**.
+**AI Engineer Intern** - Innovun Global · *Aug 2026 - Nov 2026*  
+- Built **Auri's Preact chat widget**, a bilingual (Spanish-English) **RAG assistant** for an International NGO client over **67 courses**.
 - Wrote **pgvector hybrid search** that merges ranked vector and keyword result lists with **reciprocal rank fusion**.
 - Prototyped **PO-to-SO document extraction** (PDF fields via OCR and Gemini) behind human-in-the-loop review, tested on **13 sample PO layouts** including scans with no text layer.
 
-**AI Engineer Intern** - AI LifeBOT · *Jan – Jun 2026*  
+**AI Engineer Intern** - AI LifeBOT · *Jan - Jun 2026*  
 - Built **3 production LLM applications** and autonomous agents using **LangChain + OpenAI**, serving **500+ users across 3+ companies**.
 - Built end-to-end **GenAI pipelines** with RAG, vector databases, and real-time streaming, achieving **35% lower latency** and **99.5% uptime**.
 - Developed **multi-agent orchestration** with approval gates, telemetry, and audit logging.
 
-**Machine Learning Research Intern** - CFM, RCOEM · *May – Jul 2025*  
+**Machine Learning Research Intern** - CFM, RCOEM · *May - Jul 2025*  
 - Built a **clinical prediction system** using **1,000+ patient records** with biometric feature engineering, achieving **87% accuracy** on a held-out set.
 - Engineered features by hand from raw, inconsistent tabular data in Python and pandas.
 - Cut development time **30%** through pipeline standardization, and raised validation reliability **25%** through cross-validation across multiple splits.
