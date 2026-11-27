@@ -9,12 +9,12 @@
 
 ---
 
-AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation harnesses that prove they actually work — not notebooks that die in a folder.
+AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation harnesses that prove they actually work - not notebooks that die in a folder.
 
 |  |  |
 |---|---|
 | 🚀 **Shipped** | 3 production LLM apps · 500+ users across 3+ companies · 99.5% uptime · 35% lower latency |
-| 🏆 **Competed** | 🥈 2nd — ByteSize Sage AI National Hackathon · Finalist — Paytm × Sarvam × Logitech |
+| 🏆 **Competed** | 🥈 2nd - ByteSize Sage AI National Hackathon · Finalist - Paytm × Sarvam × Logitech |
 | ☁️ **Certified** | AWS Certified Cloud Practitioner (Oct 2025) |
 | 🎓 **Studied** | B.Tech ECE, RCOEM · **8.9**/10 · Minor in AI/ML, Grade **AA** |
 
@@ -22,17 +22,17 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 ## 💼 Experience
 
-**AI Engineer Intern** — Innovun Global · *Aug 2026 – Nov 2026*  
+**AI Engineer Intern** - Innovun Global · *Aug 2026 – Nov 2026*  
 - Built **Auri's Preact chat widget**, a bilingual (Spanish–English) **RAG assistant** for an International NGO client over **67 courses**.
 - Wrote **pgvector hybrid search** that merges ranked vector and keyword result lists with **reciprocal rank fusion**.
 - Prototyped **PO-to-SO document extraction** (PDF fields via OCR and Gemini) behind human-in-the-loop review, tested on **13 sample PO layouts** including scans with no text layer.
 
-**AI Engineer Intern** — AI LifeBOT · *Jan – Jun 2026*  
+**AI Engineer Intern** - AI LifeBOT · *Jan – Jun 2026*  
 - Built **3 production LLM applications** and autonomous agents using **LangChain + OpenAI**, serving **500+ users across 3+ companies**.
 - Built end-to-end **GenAI pipelines** with RAG, vector databases, and real-time streaming, achieving **35% lower latency** and **99.5% uptime**.
 - Developed **multi-agent orchestration** with approval gates, telemetry, and audit logging.
 
-**Machine Learning Research Intern** — CFM, RCOEM · *May – Jul 2025*  
+**Machine Learning Research Intern** - CFM, RCOEM · *May – Jul 2025*  
 - Built a **clinical prediction system** using **1,000+ patient records** with biometric feature engineering, achieving **87% accuracy** on a held-out set.
 - Engineered features by hand from raw, inconsistent tabular data in Python and pandas.
 - Cut development time **30%** through pipeline standardization, and raised validation reliability **25%** through cross-validation across multiple splits.
@@ -41,18 +41,18 @@ AI engineer who ships. I build agentic systems, RAG pipelines and the evaluation
 
 ## ✨ Featured Work
 
-### 🛰️ [ML Guardian](https://github.com/rogerdemello/ml-guardian) — autonomous ML reliability agent
-Catches silent production failures — stale upstreams, creeping null rates, renamed columns — **before a KPI moves**. Runs a *scan → score → incident → write-back → remediate* loop over DataHub via MCP, naming the exact downstream models at risk and generating fail-fast remediation code. Ships with bundled fixtures: runs with no Docker and no API keys, one env var away from live.
+### 🛰️ [ML Guardian](https://github.com/rogerdemello/ml-guardian) - autonomous ML reliability agent
+Catches silent production failures - stale upstreams, creeping null rates, renamed columns - **before a KPI moves**. Runs a *scan → score → incident → write-back → remediate* loop over DataHub via MCP, naming the exact downstream models at risk and generating fail-fast remediation code. Ships with bundled fixtures: runs with no Docker and no API keys, one env var away from live.
 
 `Python` `FastAPI` `MCP` `DataHub` `Gemini` `GitHub Actions`
 
-### 🤖 [Executive Email Copilot](https://github.com/rogerdemello/autonomous-executive-email-copilot) — agent benchmarking environment · [**Live Demo**](https://exec-email-copilot.onrender.com)
-A deterministic simulation environment for **benchmarking** autonomous email agents across classification, prioritization and full action execution, with bounded, numerically stable grading metrics. Four policy modes (heuristic, stress-test, LLM-driven, multi-agent hybrid), episode replay, approval workflows — and published benchmark results with honest findings.
+### 🤖 [Executive Email Copilot](https://github.com/rogerdemello/autonomous-executive-email-copilot) - agent benchmarking environment · [**Live Demo**](https://exec-email-copilot.onrender.com)
+A deterministic simulation environment for **benchmarking** autonomous email agents across classification, prioritization and full action execution, with bounded, numerically stable grading metrics. Four policy modes (heuristic, stress-test, LLM-driven, multi-agent hybrid), episode replay, approval workflows - and published benchmark results with honest findings.
 
 `Multi-Agent RAG` `FastAPI` `React` `SciPy` `PostgreSQL`
 
-### 🎵 [music-recsys](https://github.com/rogerdemello/music-recsys) — production-scale recommender
-Two-stage pipeline — **two-tower embeddings → ANN retrieval → LightGBM ranker** — with a full MLOps loop: event bus, feature updater, online store, model registry, retrain jobs. Interface-first design puts every dependency behind a Protocol, so it runs CPU-only and Windows-native with zero external services, then scales to Kafka/K8s by flipping one config value.
+### 🎵 [music-recsys](https://github.com/rogerdemello/music-recsys) - production-scale recommender
+Two-stage pipeline - **two-tower embeddings → ANN retrieval → LightGBM ranker** - with a full MLOps loop: event bus, feature updater, online store, model registry, retrain jobs. Interface-first design puts every dependency behind a Protocol, so it runs CPU-only and Windows-native with zero external services, then scales to Kafka/K8s by flipping one config value.
 
 `PyTorch` `LightGBM` `MLflow` `Kafka` `Redis` `Prometheus`
 
@@ -65,7 +65,7 @@ Two-stage pipeline — **two-tower embeddings → ANN retrieval → LightGBM ran
 | [**shadow-gtm**](https://github.com/rogerdemello/shadow-gtm) · [demo](https://shadow-gtm.vercel.app) | Watches live web signals and competitor changes, then ranks sales plays |
 | [**LifePulse**](https://github.com/rogerdemello/LifePulse) · [demo](https://lifepulse-9vz4.onrender.com/) | ML health analytics: heart disease, sleep disorder and migraine prediction |
 
-> 20+ more — agentic platforms, India-market AI, Web3 and IoT — on my [**portfolio**](https://rogerdemello.vercel.app/) and [**repos**](https://github.com/rogerdemello?tab=repositories).
+> 20+ more - agentic platforms, India-market AI, Web3 and IoT - on my [**portfolio**](https://rogerdemello.vercel.app/) and [**repos**](https://github.com/rogerdemello?tab=repositories).
 
 ---
 
